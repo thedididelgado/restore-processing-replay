@@ -21,7 +21,7 @@ p {
 
 #logo-header {
     background-color: #004F35;
-    width:100%;
+    max-width:100% !important;
     height:auto;
 }
 
