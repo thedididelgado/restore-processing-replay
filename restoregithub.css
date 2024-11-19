@@ -16,3 +16,7 @@ body {
     padding-right: 50px;
     padding-top: 50px;
 }
+
+#logo-header {
+    background-color: #215105;
+}
