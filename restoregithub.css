@@ -1,17 +1,18 @@
 h1 {
-    font-family: Arial Black;
+    font-family: "Century Gothic";
     font-size: 36px;
-    color: black;
+    color: #004F35;
+    weight:700;
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 50px;
 }
 
 p {
-    font-family: Arial;
+    font-family: "Century Gothic";
     font-size: 16px;
     weight: 400;
-    color: black;
+    color: #004F35;
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 50px;
