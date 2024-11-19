@@ -24,6 +24,8 @@ p {
     background-color: #004F35;
     max-width:100% !important;
     height:auto;
+    padding-top:20px;
+    padding-bottom:20px;
 }
 
 .center {
